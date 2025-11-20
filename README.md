@@ -1,2 +1,9 @@
-# ai-research-papers
-A curated collection of AI and machine learning research papers. Useful for students, researchers, and developers!
+# AI Research Papers
+
+Useful open-source and academic resources for AI and ML learning.
+
+- Deep Learning
+- Data Science
+- Survey articles
+
+*Author: malaqiqabibi4-create*
